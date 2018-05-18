@@ -1,0 +1,15 @@
+bicycle
+dead end
+give way
+horn prohibited
+no entry
+no parking
+no u turn
+parking
+school zone
+slippery road
+speed limit
+stop sign
+two way traffic
+u turn
+zebra crossing
